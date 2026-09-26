@@ -1,0 +1,101 @@
+S.No,Company Name,Industry / Sector,Location (Delhi-NCR),Key AI / Tech Focus Areas,LinkedIn URL
+1,MakeMyTrip,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Recommendation engines, dynamic pricing, GenAI assistants",https://www.linkedin.com/company/makemytrip.com/
+2,Zomato,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Routing optimization, demand forecasting, multi-modal search",https://www.linkedin.com/company/zomato/
+3,Blinkit,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Demand forecasting, dark store replenishment, route optimization",https://www.linkedin.com/company/letsblinkit/
+4,Delhivery,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Computer vision for parcel sorting, address parsing NLP",https://www.linkedin.com/company/delhivery/
+5,Shiprocket,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Logistics analytics, automated shipping prediction, fraud detection",https://www.linkedin.com/company/shiprocket/
+6,Urban Company,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Matchmaking algorithms, dynamic pricing, voice booking workflows",https://www.linkedin.com/company/urbancompany/
+7,Yatra Online,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"NLP search, price prediction models, recommendation engines",https://www.linkedin.com/company/yatra-online-pvt-ltd/
+8,Ixigo,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"AI voice agents, flight/train delay prediction, ticket assistance",https://www.linkedin.com/company/ixigo/
+9,Nykaa,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Personalization, search ranking, virtual try-on vision models",https://www.linkedin.com/company/nykaa-com/
+10,Tata 1mg,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Medical OCR, prescription parsing, recommendation systems",https://www.linkedin.com/company/1mg/
+11,Lenskart,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram/Delhi,"3D virtual try-on, facial landmark detection, inventory forecasting",https://www.linkedin.com/company/lenskart-com/
+12,Shadowfax,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Last-mile routing, ETA prediction, demand mapping",https://www.linkedin.com/company/shadowfax-technologies/
+13,Ecom Express,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Address verification, logistics intelligence, OCR scanning",https://www.linkedin.com/company/ecom-express-limited/
+14,CarDekho (GirnarSoft),"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Vehicle inspection computer vision, price valuation engines",https://www.linkedin.com/company/cardekho/
+15,Spinny,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Image-based car damage inspection, valuation models",https://www.linkedin.com/company/spinny-co/
+16,Cars24,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Computer vision appraisal, dynamic pricing, lead scoring",https://www.linkedin.com/company/cars24/
+17,Snapdeal,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Catalog curation, fraud analytics, visual search",https://www.linkedin.com/company/snapdeal/
+18,Curefoods,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Demand forecasting, menu engineering, supply chain analytics",https://www.linkedin.com/company/curefoods/
+19,Droom,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"AI pricing discovery, vehicle history analytics, inspection ML",https://www.linkedin.com/company/droom/
+20,Oyo Rooms,"E-Commerce, Quick-Commerce, Logistics & Travel Tech",Gurugram,"Revenue management, dynamic pricing models, conversational bots",https://www.linkedin.com/company/oyo-rooms/
+21,Paytm (One97 Communications),"Fintech, Payments & Banking Tech",Noida,"Fraud detection, credit risk scoring, merchant analytics",https://www.linkedin.com/company/paytm/
+22,MobiKwik,"Fintech, Payments & Banking Tech",Gurugram,"Lending risk scoring, payment intelligence, fraud prevention",https://www.linkedin.com/company/mobikwik/
+23,Pine Labs,"Fintech, Payments & Banking Tech",Noida,"Merchant analytics, POS data intelligence, risk scoring",https://www.linkedin.com/company/pine-labs/
+24,BharatPe,"Fintech, Payments & Banking Tech",Gurugram/Delhi,"Underwriting algorithms, loan recovery, transaction analytics",https://www.linkedin.com/company/bharatpe/
+25,Policybazaar (PB Fintech),"Fintech, Payments & Banking Tech",Gurugram,"Conversational bots, risk underwriting, claim document OCR",https://www.linkedin.com/company/policybazaar-com/
+26,Paisabazaar,"Fintech, Payments & Banking Tech",Gurugram,"Credit advisory ML, recommendation engines, customer LTV models",https://www.linkedin.com/company/paisabazaar/
+27,Fiserv,"Fintech, Payments & Banking Tech",Noida/Gurugram,"Financial transaction fraud models, clearinghouse analytics",https://www.linkedin.com/company/fiserv/
+28,Fidelity International,"Fintech, Payments & Banking Tech",Gurugram,"Portfolio analytics, algorithmic trading support, investment research GenAI",https://www.linkedin.com/company/fidelity-international/
+29,American Express,"Fintech, Payments & Banking Tech",Gurugram,"Real-time fraud detection, credit risk engines, LLM copilots",https://www.linkedin.com/company/american-express/
+30,NatWest Group India,"Fintech, Payments & Banking Tech",Gurugram,"Financial crime prevention, conversational banking agents, regulatory NLP",https://www.linkedin.com/company/natwest-group-india/
+31,Macquarie Group,"Fintech, Payments & Banking Tech",Gurugram,"Quant finance, portfolio risk models, market intelligence ML",https://www.linkedin.com/company/macquariegroup/
+32,BlackRock,"Fintech, Payments & Banking Tech",Gurugram,"Portfolio management analytics, enterprise risk engines, financial NLP",https://www.linkedin.com/company/blackrock/
+33,S&P Global,"Fintech, Payments & Banking Tech",Gurugram/Noida,"Financial text extraction, market sentiment analysis, ESG modeling",https://www.linkedin.com/company/spglobal/
+34,Moody’s Analytics,"Fintech, Payments & Banking Tech",Gurugram,"Credit risk modeling, corporate default prediction, document analysis",https://www.linkedin.com/company/moodys-analytics/
+35,Indiagold,"Fintech, Payments & Banking Tech",Gurugram,"Gold valuation computer vision, customer risk profiling, credit engines",https://www.linkedin.com/company/indiagold/
+36,Innovaccer,"Enterprise SaaS, B2B Tech & AdTech",Noida,"Healthcare data activation, predictive patient outcomes, clinical LLMs",https://www.linkedin.com/company/innovaccer/
+37,RateGain,"Enterprise SaaS, B2B Tech & AdTech",Noida,"Travel revenue management, price intelligence, rate-parity prediction",https://www.linkedin.com/company/rategain/
+38,Incedo Inc.,"Enterprise SaaS, B2B Tech & AdTech",Gurugram,"Enterprise data engineering, client analytics, AI/ML solution architectures",https://www.linkedin.com/company/incedo-inc/
+39,Affle India,"Enterprise SaaS, B2B Tech & AdTech",Gurugram,"Mobile ad-targeting, CTR prediction, ad fraud prevention",https://www.linkedin.com/company/affle-india-limited/
+40,InMobi / Glance,"Enterprise SaaS, B2B Tech & AdTech",Noida/Delhi,"Content feed recommendation, ad-tech auction models, engagement ML",https://www.linkedin.com/company/inmobi/
+41,Nagarro,"Enterprise SaaS, B2B Tech & AdTech",Gurugram,"Enterprise AI engineering, computer vision solutions, agentic workflows",https://www.linkedin.com/company/nagarro/
+42,Birlasoft,"Enterprise SaaS, B2B Tech & AdTech",Noida,"Industrial predictive maintenance, supply chain ML, enterprise GenAI",https://www.linkedin.com/company/birlasoft/
+43,Cvent,"Enterprise SaaS, B2B Tech & AdTech",Gurugram,"Event attendee matching, smart scheduling, venue recommendations",https://www.linkedin.com/company/cvent/
+44,Sprinklr,"Enterprise SaaS, B2B Tech & AdTech",Gurugram,"Social media NLP, brand sentiment analysis, customer experience AI",https://www.linkedin.com/company/sprinklr/
+45,LeadSquared,"Enterprise SaaS, B2B Tech & AdTech",Noida,"Sales lead scoring, CRM pipeline predictions, conversational routing",https://www.linkedin.com/company/leadsquared/
+46,Wingify (VWO),"Enterprise SaaS, B2B Tech & AdTech",Delhi/Gurugram,"Conversion optimization, A/B test anomaly detection, predictive analytics",https://www.linkedin.com/company/wingify/
+47,Info Edge (Naukri.com),"Enterprise SaaS, B2B Tech & AdTech",Noida,"Resume parsing, candidate-job matching algorithms, semantic search",https://www.linkedin.com/company/info-edge-india-ltd/
+48,IndiaMART,"Enterprise SaaS, B2B Tech & AdTech",Noida,"B2B matchmaking, query classification, image moderation",https://www.linkedin.com/company/indiamart-intermesh-limited/
+49,Moglix,"Enterprise SaaS, B2B Tech & AdTech",Noida,"Industrial supply chain optimization, procurement demand forecasting, invoice OCR",https://www.linkedin.com/company/moglix/
+50,OfBusiness (Oxyzo),"Enterprise SaaS, B2B Tech & AdTech",Gurugram,"Raw material price forecasting, SME credit evaluation, procurement matching",https://www.linkedin.com/company/ofbusiness/
+51,Zeta Global,"Enterprise SaaS, B2B Tech & AdTech",Gurugram,"Marketing automation algorithms, customer intent recognition, targeting ML",https://www.linkedin.com/company/zeta-global/
+52,Comviva,"Enterprise SaaS, B2B Tech & AdTech",Gurugram,"Mobile telecom analytics, digital banking AI, churn prediction",https://www.linkedin.com/company/comviva/
+53,Newgen Software,"Enterprise SaaS, B2B Tech & AdTech",Noida/Delhi,"Intelligent document processing (IDP), business process automation, OCR",https://www.linkedin.com/company/newgen-software/
+54,Nucleus Software,"Enterprise SaaS, B2B Tech & AdTech",Noida,"Lending decision engines, cash management ML, banking automation",https://www.linkedin.com/company/nucleus-software-exports-ltd/
+55,FarEye,"Enterprise SaaS, B2B Tech & AdTech",Noida,"Predictive delivery ETAs, multi-drop route optimization, logistics intelligence",https://www.linkedin.com/company/fareye/
+56,Optum (UnitedHealth Group),"Healthcare, MedTech & Life Sciences Tech",Gurugram/Noida,"Claims processing NLP, disease progression models, clinical MLOps",https://www.linkedin.com/company/optum/
+57,IQVIA,"Healthcare, MedTech & Life Sciences Tech",Gurugram/Noida,"Clinical trial optimization, real-world evidence analytics, pharma NLP",https://www.linkedin.com/company/iqvia/
+58,CitiusTech,"Healthcare, MedTech & Life Sciences Tech",Noida/Gurugram,"Healthcare analytics, medical imaging AI, EHR data pipelines",https://www.linkedin.com/company/citiustech/
+59,GE HealthCare,"Healthcare, MedTech & Life Sciences Tech",Gurugram,"Medical imaging deep learning (CT/MRI/X-ray), diagnostic support",https://www.linkedin.com/company/gehealthcare/
+60,Piramal Pharma Solutions,"Healthcare, MedTech & Life Sciences Tech",Delhi/Noida,"Clinical predictive analytics, manufacturing quality control ML",https://www.linkedin.com/company/piramal-pharma-solutions/
+61,MedGenome,"Healthcare, MedTech & Life Sciences Tech",Delhi NCR,"Bioinformatics ML, genomic sequence analysis, variant interpretation",https://www.linkedin.com/company/medgenome-labs-pvt-ltd/
+62,HealthKart,"Healthcare, MedTech & Life Sciences Tech",Gurugram,"E-commerce recommendation engines, churn prediction, supply forecasting",https://www.linkedin.com/company/healthkart/
+63,Pristyn Care,"Healthcare, MedTech & Life Sciences Tech",Gurugram,"Patient conversion scoring, treatment cost estimation, CRM routing",https://www.linkedin.com/company/pristyn-care/
+64,Qure.ai,"Healthcare, MedTech & Life Sciences Tech",Delhi NCR,Deep learning for chest X-ray and head CT scan automated diagnosis,https://www.linkedin.com/company/qure-ai/
+65,Stryker Global Technology Center,"Healthcare, MedTech & Life Sciences Tech",Gurugram,"Surgical robotics vision, orthopedic planning algorithms, medical IoT",https://www.linkedin.com/company/stryker/
+66,ParallelDots,"Pure AI, Computer Vision & Voice Tech Labs",Gurugram,"Computer vision for retail shelf monitoring (ShelfWatch), object detection",https://www.linkedin.com/company/paralleldots/
+67,Staqu Technologies,"Pure AI, Computer Vision & Voice Tech Labs",Gurugram,"Video analytics (JARVIS), facial recognition, perimeter surveillance",https://www.linkedin.com/company/staqu/
+68,Level AI,"Pure AI, Computer Vision & Voice Tech Labs",Noida/Gurugram,"Conversational intelligence for contact centers, speech AI, QA automation",https://www.linkedin.com/company/level-ai/
+69,Gnani.ai,"Pure AI, Computer Vision & Voice Tech Labs",Delhi NCR,"Speech-to-text, Indian regional voice bots, acoustic processing",https://www.linkedin.com/company/gnaniai/
+70,Yellow.ai,"Pure AI, Computer Vision & Voice Tech Labs",Gurugram,"Conversational AI, dynamic enterprise chatbots, generative LLM workflows",https://www.linkedin.com/company/yellowdotai/
+71,Haptik,"Pure AI, Computer Vision & Voice Tech Labs",Gurugram,"Conversational commerce, WhatsApp enterprise bots, intent classification",https://www.linkedin.com/company/hellohaptik/
+72,Senseforth.ai,"Pure AI, Computer Vision & Voice Tech Labs",Noida/Gurugram,"Conversational banking bots, intent mining, voice-to-intent pipelines",https://www.linkedin.com/company/senseforth-ai/
+73,CoRover.ai,"Pure AI, Computer Vision & Voice Tech Labs",Delhi NCR,"Conversational AI engines (BharatGPT), multimodal virtual assistants",https://www.linkedin.com/company/corover/
+74,Innefu Labs,"Pure AI, Computer Vision & Voice Tech Labs",Delhi,"Biometrics, predictive policing algorithms, video analytics",https://www.linkedin.com/company/innefu-labs-pvt-ltd/
+75,Vehant Technologies,"Pure AI, Computer Vision & Voice Tech Labs",Noida,"Under-vehicle scanning vision, ANPR, X-ray baggage inspection AI",https://www.linkedin.com/company/vehant-technologies/
+76,Addverb Technologies,"Pure AI, Computer Vision & Voice Tech Labs",Noida,"Warehouse robotics navigation (AMR/AGV), SLAM, pick-and-place vision",https://www.linkedin.com/company/addverb/
+77,GreyOrange,"Pure AI, Computer Vision & Voice Tech Labs",Gurugram,"Warehouse automation robotics, inventory forecasting, path planning",https://www.linkedin.com/company/greyorange/
+78,Cron AI,"Pure AI, Computer Vision & Voice Tech Labs",Delhi NCR,"3D LiDAR perception processing, edge-computing vision models",https://www.linkedin.com/company/cron-ai/
+79,Wobot.ai,"Pure AI, Computer Vision & Voice Tech Labs",Delhi NCR,"Video intelligence for food hygiene, employee SOP tracking, security",https://www.linkedin.com/company/wobotai/
+80,Uniphore,"Pure AI, Computer Vision & Voice Tech Labs",Delhi NCR,"Conversational service automation, emotion AI, speech-to-text pipelines",https://www.linkedin.com/company/uniphore/
+81,Airtel Digital (Airtel X Labs),"Telecom, Infrastructure & Hardware Tech GCCs",Gurugram,"Network traffic prediction, customer churn modeling, recommendations",https://www.linkedin.com/company/airtel-digital/
+82,Jio Platforms,"Telecom, Infrastructure & Hardware Tech GCCs",Noida/Gurugram,"Media recommendation, optical network anomaly detection, regional LLMs",https://www.linkedin.com/company/jio-platforms-limited/
+83,Ericsson,"Telecom, Infrastructure & Hardware Tech GCCs",Noida/Gurugram,"5G network slicing optimization, radio anomaly detection, maintenance",https://www.linkedin.com/company/ericsson/
+84,Nokia Bell Labs / Networks,"Telecom, Infrastructure & Hardware Tech GCCs",Noida/Gurugram,"Telco network intelligence, automated routing, RAN energy optimization",https://www.linkedin.com/company/nokia/
+85,Ciena,"Telecom, Infrastructure & Hardware Tech GCCs",Gurugram,"Optical networking optimization, SDN routing ML, predictive diagnostics",https://www.linkedin.com/company/ciena/
+86,Amdocs,"Telecom, Infrastructure & Hardware Tech GCCs",Gurugram,"Telco billing analytics, customer journey automation, network intelligence",https://www.linkedin.com/company/amdocs/
+87,Samsung R&D Institute India (SRI-N),"Telecom, Infrastructure & Hardware Tech GCCs",Noida,"Mobile on-device AI, computational photography, natural language interfaces",https://www.linkedin.com/company/sri-noida/
+88,STMicroelectronics,"Telecom, Infrastructure & Hardware Tech GCCs",Greater Noida,"Embedded edge AI, TinyML for microcontrollers, sensor fusion algorithms",https://www.linkedin.com/company/stmicroelectronics/
+89,Cadence Design Systems,"Telecom, Infrastructure & Hardware Tech GCCs",Noida,"ML for electronic design automation (EDA), chip layout optimization",https://www.linkedin.com/company/cadence-design-systems/
+90,Synopsys,"Telecom, Infrastructure & Hardware Tech GCCs",Noida,"AI-driven IC design, place-and-route optimization, silicon simulation",https://www.linkedin.com/company/synopsys/
+91,dunnhumby,"GCCs, Consulting & Advanced Analytics",Gurugram,"Retail customer data science, price/promotion forecasting, personalization",https://www.linkedin.com/company/dunnhumby/
+92,EXL Service,"GCCs, Consulting & Advanced Analytics",Noida/Gurugram,"Claims predictive modeling, enterprise LLM agents, financial analytics",https://www.linkedin.com/company/exl-service/
+93,Genpact,"GCCs, Consulting & Advanced Analytics",Gurugram/Noida,"Supply chain forecasting, finance automation, enterprise GenAI workflows",https://www.linkedin.com/company/genpact/
+94,Mu Sigma,"GCCs, Consulting & Advanced Analytics",Delhi NCR,"Decision sciences, retail analytics, econometric modeling",https://www.linkedin.com/company/mu-sigma-inc/
+95,Tiger Analytics,"GCCs, Consulting & Advanced Analytics",Delhi NCR,"Predictive maintenance, retail demand forecasting, marketing mix modeling",https://www.linkedin.com/company/tiger-analytics/
+96,Fractal Analytics,"GCCs, Consulting & Advanced Analytics",Gurugram,"AI consulting, retail customer science, enterprise CV / GenAI",https://www.linkedin.com/company/fractal-analytics/
+97,LatentView Analytics,"GCCs, Consulting & Advanced Analytics",Delhi NCR,"Marketing analytics, data pipeline modeling, predictive intelligence",https://www.linkedin.com/company/latentview/
+98,Publicis Sapient,"GCCs, Consulting & Advanced Analytics",Gurugram/Noida,"Digital business transformation, e-commerce personalization, conversational AI",https://www.linkedin.com/company/publicissapient/
+99,BCG X,"GCCs, Consulting & Advanced Analytics",Gurugram,"Bespoke machine learning solutions, optimization algorithms, enterprise AI",https://www.linkedin.com/company/bcg-x/
+100,"QuantumBlack, AI by McKinsey","GCCs, Consulting & Advanced Analytics",Gurugram,"High-end operational AI, predictive asset maintenance, enterprise LLM deployment",https://www.linkedin.com/company/quantumblack/
