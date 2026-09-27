@@ -14,7 +14,6 @@ from pathlib import Path
 from datetime import datetime
 
 import streamlit as st
-from streamlit_extras.metric_row import metric_row
 
 try:
     from dotenv import load_dotenv, set_key
