@@ -18,7 +18,35 @@ run_all.py
 
 ---
 
-## Quick start
+## 🎨 Using the Dashboard (Easiest Way!)
+
+**No command line needed.** Use our beautiful Streamlit dashboard instead:
+
+```bash
+streamlit run streamlit_app.py
+```
+
+Or on Windows, just **double-click:**
+```
+run_dashboard.bat
+```
+
+✅ **What you get:**
+- Web-based interface (opens in browser)
+- Fill in API keys in sidebar
+- Click buttons to run each step
+- Watch live logs as they happen
+- Preview CSVs before sending
+- Upload resume from dashboard
+- No terminal = no scary errors!
+
+👉 **[Start with the Dashboard Guide →](README_DASHBOARD.md)**
+
+Or use the **[Quick Start Guide →](DASHBOARD_QUICKSTART.md)** (3 steps, 5 minutes)
+
+---
+
+## Quick start (Command Line Alternative)
 
 **1. Put these files in one folder:**
 
@@ -45,6 +73,15 @@ pip install -r requirements.txt
 ```
 
 On Windows, if `python` isn't found, use `py` instead.
+
+**Or use the Dashboard (recommended):**
+
+After installing, just run:
+```bash
+streamlit run streamlit_app.py
+```
+
+No more command line! Everything in your browser. 🎉
 
 **3. Get your keys:**
 
@@ -274,6 +311,27 @@ Hunter's credits are shared across your whole Hunter account. `lead_finder.py` r
 
 ---
 
+---
+
+## Dashboard vs Command Line
+
+Both ways work! Choose what's easiest for you:
+
+| Feature | Dashboard | Command Line |
+|---------|-----------|--------------|
+| **Ease** | ✅ Easiest — web interface | ⏺️ Requires terminal |
+| **Real-time logs** | ✅ In browser | ✅ In terminal |
+| **Resume upload** | ✅ Click to upload | ⏺️ File in folder |
+| **Configuration** | ✅ Fill forms in sidebar | ⏺️ Edit .env manually |
+| **CSV preview** | ✅ See data in dashboard | ⏺️ Open in Excel |
+| **Multi-step runs** | ✅ Click next tab | ⏺️ Run commands manually |
+
+**For most users:** Use the dashboard! It's faster and more visual.
+
+**For power users / scripting:** Command line is still fully supported.
+
+---
+
 ## Troubleshooting
 
 | Problem | Fix |
@@ -290,7 +348,21 @@ Hunter's credits are shared across your whole Hunter account. `lead_finder.py` r
 | Test emails land in spam | Send fewer per day, and edit drafts to sound more like you |
 | Tier looks wrong | Edit `TIER_GUIDE` in `company_finder.py` and check the `reason` column |
 
+**Dashboard-specific issues:**
+
+| Problem | Fix |
+|---------|-----|
+| `ModuleNotFoundError: streamlit` | Run `pip install streamlit` |
+| Browser doesn't open | Manually go to `http://localhost:8501` |
+| Can't find resume.pdf | Upload in dashboard's "Draft Emails" tab |
+| Logs not updating | Refresh browser or wait for step to complete |
+| "API Key missing" error | Go to sidebar → 🔑 API Keys → paste key → click Save |
+
 For more detail on any step, add `-v` to `lead_finder.py`, or run that step's script on its own.
+
+**Dashboard guides:**
+- [Dashboard Quick Start](DASHBOARD_QUICKSTART.md) — 3-step setup
+- [Dashboard Full Guide](README_DASHBOARD.md) — Complete user manual
 
 ---
 

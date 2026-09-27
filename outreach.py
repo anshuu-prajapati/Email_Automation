@@ -469,11 +469,16 @@ def cmd_send(args):
     log.info("Ready to send %d emails (%d approved in total, %d left in today's limit).",
              len(batch), len(queue), left_today)
     log.info("Estimated time: about %d minutes.\n", len(batch) * (lo + hi) // 2 // 60)
-    first = batch[0]
-    log.info("First one → %s <%s>\nSubject: %s\n\n%s%s\n[attached: %s]\n", first["to_name"], first["to_email"],
-             first["subject"], first["body"], signature(prof), CONFIG["resume"])
-    if not args.yes and input('Type SEND to start (anything else cancels): ').strip() != "SEND":
-        sys.exit("Cancelled. Nothing was sent.")
+
+    if not args.bulk:
+        first = batch[0]
+        log.info("First one → %s <%s>\nSubject: %s\n\n%s%s\n[attached: %s]\n", first["to_name"], first["to_email"],
+                 first["subject"], first["body"], signature(prof), CONFIG["resume"])
+        if not args.yes and input('Type SEND to start (anything else cancels): ').strip() != "SEND":
+            sys.exit("Cancelled. Nothing was sent.")
+    else:
+        if not args.yes:
+            log.info("Sending %d emails in bulk mode...", len(batch))
 
     mailer, resume = Mailer(), Path(CONFIG["resume"]).read_bytes()
     sent = 0
@@ -528,6 +533,7 @@ def main():
     s.add_argument("--max", type=int, default=0, help="send at most N this run")
     s.add_argument("--now", action="store_true", help="ignore the business-hours check")
     s.add_argument("--yes", action="store_true", help="skip the SEND confirmation")
+    s.add_argument("--bulk", action="store_true", help="send all at once without per-email confirmation (implies --yes)")
     args = ap.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(message)s")
