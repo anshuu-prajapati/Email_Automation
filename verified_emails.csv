@@ -1,0 +1,36 @@
+email,company,domain,industry,status,source
+recruitment@bharatpe.com,BharatPe,bharatpe.com,fintech,valid,free
+hr@bharatpe.com,BharatPe,bharatpe.com,fintech,valid,free
+hello@bharatpe.com,BharatPe,bharatpe.com,fintech,valid,free
+admin@bharatpe.com,BharatPe,bharatpe.com,fintech,valid,free
+business@bharatpe.com,BharatPe,bharatpe.com,fintech,valid,free
+info@chqbook.com,Chqbook,chqbook.com,fintech,valid,free
+hr@chqbook.com,Chqbook,chqbook.com,fintech,valid,free
+sales@chqbook.com,Chqbook,chqbook.com,fintech,valid,free
+admin@ziploan.in,ZipLoan,ziploan.in,fintech,valid,free
+info@ziploan.in,ZipLoan,ziploan.in,fintech,valid,free
+support@ziploan.in,ZipLoan,ziploan.in,fintech,valid,free
+hr@staqu.com,Staqu Technologies,staqu.com,ai,valid,free
+info@staqu.com,Staqu Technologies,staqu.com,ai,valid,free
+support@staqu.com,Staqu Technologies,staqu.com,ai,valid,free
+sales@staqu.com,Staqu Technologies,staqu.com,ai,valid,free
+hello@staqu.com,Staqu Technologies,staqu.com,ai,valid,free
+hr@intellolabs.com,Intello Labs,intellolabs.com,ai,valid,free
+admin@intellolabs.com,Intello Labs,intellolabs.com,ai,valid,free
+contact@intellolabs.com,Intello Labs,intellolabs.com,ai,valid,free
+hello@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+ceo@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+recruitment@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+business@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+founder@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+admin@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+support@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+sales@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+contact@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+info@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+hr@invoicera.com,Invoicera,invoicera.com,saas,valid,free
+info@spicemoney.com,Spice Money,spicemoney.com,fintech,valid,free
+sales@spicemoney.com,Spice Money,spicemoney.com,fintech,valid,free
+hr@spicemoney.com,Spice Money,spicemoney.com,fintech,valid,free
+recruitment@spicemoney.com,Spice Money,spicemoney.com,fintech,valid,free
+admin@spicemoney.com,Spice Money,spicemoney.com,fintech,valid,free
